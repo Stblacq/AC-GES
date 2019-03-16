@@ -1,0 +1,8 @@
+function [tiger ] = animal( number_of_teeth' )
+
+if number_of_teeth == 32
+    human
+
+
+end
+
